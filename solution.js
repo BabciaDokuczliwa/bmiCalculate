@@ -38,5 +38,4 @@ if (bmiMark > bmiJohn) {
     
 } else {console.log('Q5. John`s BMI is higher than Mark`s and is ', Math.round( bmiJohn * 100) / 100);
 
-
 }
